@@ -31,4 +31,4 @@ Strategy is to invest where most other investors are investing with below 2 mino
 Click here to find the analysis results and the best investments suggestion for the Spark Funds.
 
 
-More updates coming soon..!!
+More updates coming soon.!
