@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# EDA-Investment-Analysis
+The Exploratory Data Analysis is performed to understand the Global Investment Trends for Spark Funds.
 
-You can use the [editor on GitHub](https://github.com/AbhishekKumar-0311/EDA-Investment-Analysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Abstract:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The CEO of Spark Funds, an asset management company wants to understand the global trends in investments so that she can take the investment decisions effectively.
 
-### Markdown
+### Business Objective :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The objective is to identify the best sectors, countries, and a suitable investment/funding type for making investments.
 
-```markdown
-Syntax highlighted code block
+### Investment Constraints :
 
-# Header 1
-## Header 2
-### Header 3
+Strategy is to invest where most other investors are investing with below 2 minor restrictions for investments
+- Invest between 5 to 15 million USD per round of investment 
+- Invest only in English speaking countries for the ease of communication with the companies it would invest in.
+  Click for [List of English Speaking countries](https://en.wikipedia.org/wiki/List_of_territorial_entities_where_English_is_an_official_language)
 
-- Bulleted
-- List
+### Data Understanding :
 
-1. Numbered
-2. List
+1. **_Company details_** : Contains the basic details of companies with Unique company Id, Company Name, Category names, Country etc
+2. **_Funding round details:_** : Contains the Funding round details with Unique company Id, Funding Type, money raised in Funding etc
+3. **_Sector Classification:_** : Contains mapping of category names in the companies table to eight broad sector names
 
-**Bold** and _Italic_ and `Code` text
+### Problem Solving Methodology :
 
-[Link](url) and ![Image](src)
-```
+![Flowchart](https://github.com/AbhishekKumar-0311/EDA-Investment-Analysis/blob/master/Presentation/Investment%20Analysis.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Conclusion :
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AbhishekKumar-0311/EDA-Investment-Analysis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Click here to find the analysis results and the best investments suggestion for the Spark Funds.
