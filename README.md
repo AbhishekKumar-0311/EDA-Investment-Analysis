@@ -24,7 +24,7 @@ Strategy is to invest where most other investors are investing with below 2 mino
 
 ### Problem Solving Methodology :
 
-<img src="https://github.com/AbhishekKumar-0311/EDA-Investment-Analysis/blob/master/Presentation/Investment%20Analysis.png" width="1000">
+![Algorithm](https://github.com/AbhishekKumar-0311/EDA-Investment-Analysis/blob/master/Presentation/Investment%20Analysis.png)
 
 ### Conclusion :
 
