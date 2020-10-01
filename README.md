@@ -28,7 +28,4 @@ Strategy is to invest where most other investors are investing with below 2 mino
 
 ### Conclusion :
 
-Click here to find the analysis results and the best investments suggestion for the Spark Funds.
-
-
-More updates coming soon.!
+Click [here](https://github.com/AbhishekKumar-0311/EDA-Investment-Analysis/blob/master/Presentation/Spark_Funds_Investment_Analysis.pdf) to find the analysis results and the best investments suggestion for the Spark Funds.
